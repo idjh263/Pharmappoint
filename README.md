@@ -34,15 +34,21 @@
 
 ## Usage
 
+deployed url - https://obscure-basin-09475.herokuapp.com/
+
 1. Sign up to Create Account in able to access PharmAppoint App.
+
+![createuser](https://user-images.githubusercontent.com/92761848/156972974-260b6cad-2e01-478b-9364-6ba8bf74f968.png)
+
 
 
 2. Login to enter the App.
-
+<img width="687" alt="pharmappoint" src="https://user-images.githubusercontent.com/92761848/156972630-88cefb0c-223e-4a20-bc11-77015b415a67.png">
 
 
 3. Post  the date, time and type of appointment 
 
+![appointment](https://user-images.githubusercontent.com/92761848/156973009-1ad964fc-c446-44a3-ad55-e3040cbf15ec.png)
 
 
 4. After post you can logout. 
